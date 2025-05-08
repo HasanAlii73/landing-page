@@ -98,6 +98,8 @@ button{
 
 .container{
     display: flex;
+    align-items:first baseline;
+    flex-wrap: wrap;
     gap: 100px;
 }
 
